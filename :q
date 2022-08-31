@@ -1,0 +1,23 @@
+ALX School
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Tue Aug 30 15:52:08 2022 -0700
+#
+# On branch update_script
+# Changes to be committed:
+#	new file:   bash/alx
+#	new file:   bash/school
+#	new file:   c/c_is_fun.c
+#	new file:   js/index.js
+#	new file:   js/main.js
+#
+# Changes not staged for commit:
+#	modified:   bash/alx
+#	deleted:    js/index.js
+#	deleted:    js/main.js
+#
+# Untracked files:
+#	bash/98
+#
